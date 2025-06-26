@@ -75,7 +75,7 @@ The final model is deployed through a *Streamlit* app, allowing users to input t
 
 1. *Clone the repository*
    bash
-   git clone https://github.com/<your-username>/peram-mahesh.git
+   git clone https://github.com/RaviTeja944/-match_predictor
    cd peram-mahesh
    
 2.**Install required packages**
@@ -106,7 +106,7 @@ Compact and efficient model inference
 ## 📁 Repository Structure
 
 
-peram-mahesh/
+Ravi Teja/
 ├── app.py                         # Streamlit app for predictions  
 ├── model (1).h5                   # Trained Keras model  
 ├── Assessment - Form Responses.csv  # Survey response dataset  
@@ -116,7 +116,7 @@ peram-mahesh/
 
 ## 👥 Authors
 
-Developed by Peram Mahesh
+Developed by Ravi Teja
 
 * https://www.linkedin.com/in/raviteja-kaparaveni-431bb8328/
 
