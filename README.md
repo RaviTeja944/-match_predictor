@@ -76,7 +76,7 @@ The final model is deployed through a *Streamlit* app, allowing users to input t
 1. *Clone the repository*
    bash
    git clone https://github.com/RaviTeja944/-match_predictor
-   cd peram-mahesh
+   cd RaviTeja944
    
 2.**Install required packages**
 
